@@ -1,5 +1,5 @@
 services:
-  areyouok:
+  kasep:
     build: .
     ports:
       - 80:80
